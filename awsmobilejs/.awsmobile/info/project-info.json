@@ -1,0 +1,22 @@
+{
+	"ProjectName": "awscog",
+	"ProjectPath": "/Users/jdunlap/github/jadbox/awscog",
+	"SourceDir": "src",
+	"DistributionDir": "build",
+	"BuildCommand": "npm run-script build",
+	"StartCommand": "npm run-script start",
+	"InitializationTime": "2018-01-02-20-19-06",
+	"LastConfigurationTime": "",
+	"LastNPMInstallTime": "",
+	"FrontendLastBuildTime": "",
+	"LastPublishTime": "",
+	"BackendFormat": "yml",
+	"BackendLastBuildTime": "",
+	"BackendLastUpdateTime": "",
+	"BackendLastUpdateSuccessful": false,
+	"BackendProjectID": "",
+	"BackendProjectName": "",
+	"BackendProjectConsoleUrl": "",
+	"BackendProjectCreationTime": "",
+	"BackendProjectLastUpdatedTime": ""
+}
